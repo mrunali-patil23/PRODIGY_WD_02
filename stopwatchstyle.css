@@ -1,0 +1,17 @@
+/* Style your stopwatch elements here */
+.stopwatch {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.display {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
